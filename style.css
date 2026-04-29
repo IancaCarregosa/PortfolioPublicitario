@@ -533,4 +533,10 @@ body.light-mode #titulo, body.light-mode #descricao{
   #galeria {
     margin: 0;
   }
+  .fotoSobre {
+    background-size: contain;
+    background-position: left center;
+    background-repeat: no-repeat;
+    height: 35vh;
+  }
 }
