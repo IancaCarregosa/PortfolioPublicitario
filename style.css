@@ -538,6 +538,6 @@ body.light-mode #titulo, body.light-mode #descricao{
     background-size: contain;
     background-position: left center;
     background-repeat: no-repeat;
-    height: 35vh;
+ 
   }
 }
